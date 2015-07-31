@@ -1,2 +1,2 @@
 # hygracose
-Hybrid Graph-Constraint Search
+Hybrid Graph-Constrained Search
